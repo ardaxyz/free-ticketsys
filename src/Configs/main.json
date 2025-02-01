@@ -1,0 +1,21 @@
+{
+  "token": "",
+  "Activity": {
+    "name": "github.com/ardaxyz",
+    "type": 4,
+    "status": "dnd"
+  },
+  "ticketsystem": {
+    "panel": {
+      "rechte": [""],
+      "msg": "Du hast dafür keine Berechtigung"
+    },
+    "showticket": {
+      "rechte": [""]
+    },
+    "categories": [
+      { "name": "test", "emoji": "📈", "categoryid": "" },
+      { "name": "test2", "emoji": "📈", "categoryid": "" }
+    ]
+  }
+}
